@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/AnimRakiety.png</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/boom.mp3</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/control.png</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/czcionka.spritefont</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/gameOver.png</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/meteor.png</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/niebo.png</File>
+    <File>C:/Users/Kubson/source/repos/SzymanskiAstro/SzymanskiAstro/Content/pocisk2D.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
